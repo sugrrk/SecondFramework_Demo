@@ -1,0 +1,6 @@
+[INFO ] 2021-04-02 14:13:09.783 [main] ExcelHelper1 - testing for hero images
+[INFO ] 2021-04-02 14:13:47.338 [main] ExcelHelper1 - testing for hero images
+[INFO ] 2021-04-02 14:19:20.091 [main] ExcelHelper1 - total rows:2
+[INFO ] 2021-04-02 14:19:20.097 [main] ExcelHelper1 - total cols:2
+[INFO ] 2021-04-02 14:19:20.106 [main] ExcelHelper1 - total cols:2
+[ERROR] 2021-04-02 14:19:20.447 [main] ExcelHelper1 - java.io.FileNotFoundException: C:\Users\suganya\SecondFramework_Demo\resourcesNew1\tests-data1\HomePage1-Data.xlsx (The process cannot access the file because it is being used by another process)
